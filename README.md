@@ -1,0 +1,1 @@
+This is a demontration of different ways of sending data from the user form to the server. Both client and server side methods. With Zod schema validation.
